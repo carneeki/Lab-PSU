@@ -7637,6 +7637,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 129.54 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 129.54 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7639b17-64a0-4117-9ba3-7e1904e064a6")
 		)
@@ -7696,6 +7714,24 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 22.86 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 22.86 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 22.86 71.12 0)
 			(effects
 				(font
@@ -7771,6 +7807,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 29.21 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 29.21 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2eda399b-084e-47f8-ac21-62cfab392d26")
 		)
@@ -7832,6 +7886,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 242.57 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 242.57 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 242.57 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7908,6 +7980,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 25.4 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 25.4 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7fa95fda-9c60-4305-999d-538fe483e24b")
 		)
@@ -7967,6 +8057,24 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
+			(at 25.4 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 25.4 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 25.4 140.97 0)
 			(effects
 				(font
@@ -8310,6 +8418,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 274.32 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 274.32 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3d2b0ed7-6a41-46b9-8412-3c0824761766")
 		)
@@ -8372,6 +8498,24 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 45.72 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 45.72 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 45.72 96.52 0)
 			(effects
 				(font
@@ -8525,6 +8669,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 210.82 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 210.82 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1ef858c7-6a6c-4308-8714-4c4c3e2b120e")
 		)
@@ -8652,6 +8814,24 @@
 			)
 		)
 		(property "Description" "Reverse mount adressable LED (WS2812 protocol)"
+			(at 88.9 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 88.9 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 88.9 33.02 0)
 			(effects
 				(font
@@ -8799,6 +8979,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 227.33 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 227.33 114.3 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "87938c9c-b0b7-4643-9416-975f61d19294")
 		)
@@ -8859,6 +9057,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 232.41 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 232.41 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 232.41 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8992,6 +9208,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 267.97 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 267.97 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 267.97 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9466,6 +9700,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 134.62 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 134.62 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "44ff2010-7893-4114-9f44-3407ae8dfbdf")
 		)
@@ -9532,6 +9784,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 238.76 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 238.76 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 238.76 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9607,6 +9877,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 73.66 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 73.66 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "ad31127a-ff43-45c9-b35a-7d5de0bdcd43")
 		)
@@ -9674,6 +9962,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 242.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 242.57 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 242.57 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9807,6 +10113,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 29.21 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 29.21 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10007,6 +10331,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 238.76 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 238.76 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 238.76 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10283,6 +10625,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 254 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 254 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "S2"
 			(uuid "d29a43be-8362-4018-ba89-93ce49fe45d7")
 		)
@@ -10360,6 +10720,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 220.98 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 220.98 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "982ddd44-0856-44f8-b483-388c91f07b8b")
 		)
@@ -10422,6 +10800,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 33.02 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 33.02 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 33.02 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10629,6 +11025,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "b23d1dde-519b-459e-b406-09d361fb95bc")
 		)
@@ -10783,6 +11197,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 22.86 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 22.86 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c733d5ea-50f6-4ab9-9eb2-cbb78b8c2b94")
 		)
@@ -10852,6 +11284,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 33.02 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 33.02 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dfbb7353-8e86-4b8c-ad60-265e3be86d9f")
 		)
@@ -10914,6 +11364,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 227.33 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 227.33 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 227.33 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11057,6 +11525,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 55.88 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 55.88 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "815c4497-466a-4398-a8c7-461c8c771d1b")
 		)
@@ -11117,6 +11603,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 29.21 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 29.21 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 29.21 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11186,6 +11690,24 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 22.86 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 22.86 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 22.86 96.52 0)
 			(effects
 				(font
@@ -11594,6 +12116,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 220.98 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 220.98 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "99c7a621-95ee-4261-9521-f8ddee070351")
 		)
@@ -11654,6 +12194,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 267.97 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 267.97 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 267.97 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11728,6 +12286,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 52.07 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 52.07 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad556f1a-bb44-4b96-bc22-d88f3d4fe608")
 		)
@@ -11793,6 +12369,24 @@
 		)
 		(property "Description" "16-bit I/O expander, I2C interface, open-drain outpus (with configurable pull-up resistors), 2 interrupt outputs, SOIC-28"
 			(at 114.3 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 114.3 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 114.3 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11946,6 +12540,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 149.86 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 149.86 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "1a2e4498-187e-4ad0-b5f0-c06dbe247933")
 		)
@@ -12014,6 +12626,24 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 45.72 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 45.72 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 45.72 83.82 0)
 			(effects
 				(font
@@ -12158,6 +12788,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 114.3 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 114.3 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "00819711-3d95-417a-a530-ae194eedc9c3")
 		)
@@ -12289,6 +12937,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 179.07 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 179.07 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f09b3035-6a68-4fc7-859b-e9ae9c7626bd")
 		)
@@ -12349,6 +13015,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 52.07 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 52.07 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 52.07 86.36 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12417,6 +13101,24 @@
 			)
 		)
 		(property "Description" "Single Schmitt NOT Gate, Low-Voltage CMOS"
+			(at 48.26 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 48.26 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 48.26 33.02 0)
 			(effects
 				(font
@@ -12569,6 +13271,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 55.88 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 55.88 90.17 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a5ec32b5-17ce-48a0-b316-4438c4414b4c")
 		)
@@ -12630,6 +13350,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 38.1 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 38.1 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 38.1 162.56 0)
 			(effects
 				(font
@@ -12707,6 +13445,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 193.04 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 193.04 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "bbb31f0f-1a8f-4902-a75d-c1032dfe7e5a")
 		)
@@ -12774,6 +13530,24 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
+			(at 114.3 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 114.3 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 114.3 163.83 0)
 			(effects
 				(font
@@ -12985,6 +13759,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 104.14 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 104.14 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "457636bf-a69c-4384-b4b1-135d2ec1629e")
 		)
@@ -13055,6 +13847,24 @@
 			)
 		)
 		(property "Description" "USB serial converter, UART, SOIC-16"
+			(at 233.68 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 233.68 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 233.68 137.16 0)
 			(effects
 				(font
@@ -13166,6 +13976,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 274.32 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 274.32 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 274.32 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13302,6 +14130,24 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
+			(at 38.1 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 38.1 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 38.1 140.97 0)
 			(effects
 				(font
@@ -13515,6 +14361,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 55.88 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 55.88 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ccb4c8b-1082-43e5-bd9d-a5457b71e1a1")
 		)
@@ -13579,6 +14443,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 40.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 40.64 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 40.64 114.3 0)
 			(effects
 				(font
@@ -13859,6 +14741,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 119.38 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 119.38 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "7011a5cd-2520-41d2-9918-75717a513aac")
 		)
@@ -13991,6 +14891,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 210.82 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 210.82 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 210.82 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14197,6 +15115,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 232.41 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 232.41 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "74dc61fa-431f-483a-9ca4-22af4c7bb193")
 		)
@@ -14325,6 +15261,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 264.16 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 264.16 24.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 264.16 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14467,6 +15421,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 29.21 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 29.21 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5d4a0365-e1e9-408f-b3f7-e145bdf66950")
 		)
@@ -14527,6 +15499,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 210.82 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 210.82 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 210.82 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14595,6 +15585,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 256.54 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 256.54 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 256.54 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14739,6 +15747,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 269.24 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 269.24 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "42d4d1e2-7ec1-494b-a898-1ba28b3b8143")
 		)
@@ -14818,6 +15844,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 52.07 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 52.07 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d90c21c1-d714-41cb-a25e-178ee1e43a53")
 		)
@@ -14878,6 +15922,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 269.24 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 269.24 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 269.24 153.67 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15020,6 +16082,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 232.41 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 232.41 81.28 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6294a98c-2ca0-414a-879b-44cd21f4ce5c")
 		)
@@ -15081,6 +16161,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 90.17 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 90.17 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 90.17 91.44 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15282,6 +16380,24 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+			(at 45.72 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 45.72 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 45.72 71.12 0)
 			(effects
 				(font
@@ -15621,6 +16737,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 172.72 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 172.72 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4862403d-f41c-4f30-b863-47dedf109c3a")
 		)
@@ -15888,6 +17022,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 179.07 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 179.07 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4cb1a71e-6522-4483-af0c-49edf1f9ded6")
 		)
@@ -16116,6 +17268,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 204.47 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 204.47 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9c4b976a-deaf-404b-afe6-374a699d3b13")
 		)
@@ -16185,6 +17355,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 33.02 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 33.02 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e4afecfb-a88a-450d-b9e7-1f19af465df7")
 		)
@@ -16246,6 +17434,24 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
+			(at 129.54 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 129.54 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 129.54 163.83 0)
 			(effects
 				(font
@@ -16325,6 +17531,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 90.17 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 90.17 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "345af09b-3513-4ab3-977a-5db6aeece772")
 		)
@@ -16388,6 +17612,24 @@
 			)
 		)
 		(property "Description" "Generic DC optocoupler with NPN phototransistor output, pins order: anode/cathode/emitter/collector"
+			(at 193.04 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 193.04 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 193.04 144.78 0)
 			(effects
 				(font
@@ -16470,6 +17712,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 204.47 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 204.47 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8c08c62e-a41b-4c39-ab22-4c7832972a91")
 		)
@@ -16530,6 +17790,24 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(at 254 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 254 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 254 40.64 0)
 			(effects
 				(font
@@ -16680,6 +17958,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 251.46 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 251.46 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9c1477ab-62a4-43c0-89aa-731800b2eb93")
 		)
@@ -16807,6 +18103,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 232.41 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 232.41 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 232.41 43.18 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16959,6 +18273,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 210.82 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 210.82 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b3ec37ea-204b-46e9-b4ab-4806b5397517")
 		)
@@ -17020,6 +18352,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 264.16 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 264.16 62.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 264.16 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17222,6 +18572,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 256.54 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 256.54 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 256.54 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)

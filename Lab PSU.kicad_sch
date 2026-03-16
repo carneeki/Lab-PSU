@@ -5,6 +5,196 @@
 	(uuid "fae13b61-4b38-45f0-834d-dde0b60d6e74")
 	(paper "A4")
 	(lib_symbols
+		(symbol "Connector:Screw_Terminal_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Screw_Terminal_01x02"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "screw terminal"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TerminalBlock*:*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Screw_Terminal_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 0.3302) (xy 0.3302 -0.508)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.5334 -2.2098) (xy 0.3302 -3.048)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 0.508) (xy 0.508 -0.3302)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.3556 -2.032) (xy 0.508 -2.8702)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 0)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 -2.54)
+					(radius 0.635)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Screw_Terminal_01x03"
 			(pin_names
 				(offset 1.016)
@@ -3915,6 +4105,12 @@
 		(uuid "06c013af-b881-456f-bf84-5afbb6ac265c")
 	)
 	(junction
+		(at 172.72 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0ab2ea21-51de-4e52-93c3-8534d7a7492d")
+	)
+	(junction
 		(at 129.54 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4191,6 +4387,12 @@
 		(uuid "7f054417-4847-44aa-94dd-2eaa90acaf8d")
 	)
 	(junction
+		(at 162.56 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "851050a7-0bf4-4a8e-b1c0-e2285dc6340d")
+	)
+	(junction
 		(at 27.94 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4243,6 +4445,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "92834251-321d-42ff-b5d8-3edf0476444d")
+	)
+	(junction
+		(at 162.56 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "94a7c3e6-47f3-4073-857b-83e6d7a070e8")
 	)
 	(junction
 		(at 144.78 25.4)
@@ -5460,7 +5668,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 91.44) (xy 160.02 91.44)
+			(xy 172.72 91.44) (xy 160.02 91.44)
 		)
 		(stroke
 			(width 0)
@@ -5597,6 +5805,16 @@
 			(type default)
 		)
 		(uuid "786a78f8-b283-4a0e-8cad-dec795336374")
+	)
+	(wire
+		(pts
+			(xy 162.56 76.2) (xy 177.8 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79a91990-8b5c-4b29-9a73-c86c6fb25eed")
 	)
 	(wire
 		(pts
@@ -5737,6 +5955,16 @@
 			(type default)
 		)
 		(uuid "83ff2e4f-1e86-4dc5-acc9-b2ad38e59168")
+	)
+	(wire
+		(pts
+			(xy 162.56 106.68) (xy 177.8 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84d5567f-abcd-43ad-a9bc-a2a72a210775")
 	)
 	(wire
 		(pts
@@ -6620,6 +6848,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 91.44) (xy 177.8 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec74e0c4-0126-4eb7-b994-93101d1543ea")
+	)
+	(wire
+		(pts
 			(xy 109.22 25.4) (xy 109.22 27.94)
 		)
 		(stroke
@@ -6667,6 +6905,16 @@
 			(type default)
 		)
 		(uuid "ef62d441-53b6-44f2-aa5a-1e241fcb4b5c")
+	)
+	(wire
+		(pts
+			(xy 177.8 76.2) (xy 177.8 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef859e21-99bf-42ea-a07e-f2f462417df3")
 	)
 	(wire
 		(pts
@@ -6727,6 +6975,16 @@
 			(type default)
 		)
 		(uuid "f27193d7-c1e3-417d-b3c5-e45c78a0d7ba")
+	)
+	(wire
+		(pts
+			(xy 177.8 106.68) (xy 177.8 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3d0bd59-9c0e-4de8-a28e-7379348429af")
 	)
 	(wire
 		(pts
@@ -6875,6 +7133,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Screw_Terminal_01x02")
+		(at 182.88 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "01574af4-8050-4036-b154-7a27809edd3a")
+		(property "Reference" "J8"
+			(at 185.42 126.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Screw_Terminal_01x02"
+			(at 185.42 129.5399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal"
+			(at 182.88 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 182.88 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 182.88 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0b9cec1f-08e7-4b2a-b939-3f4f2ebe0e04")
+		)
+		(pin "1"
+			(uuid "2ea5c36e-dde9-4425-bcca-ec2d4ad67984")
+		)
+		(instances
+			(project ""
+				(path "/fae13b61-4b38-45f0-834d-dde0b60d6e74"
+					(reference "J8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VAC")
 		(at 50.8 25.4 0)
 		(unit 1)
@@ -7013,6 +7341,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 105.41 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 105.41 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd515b18-971f-40ea-8a6a-1779346589f4")
 		)
@@ -7074,6 +7420,24 @@
 		)
 		(property "Description" "Fuse"
 			(at 24.13 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 24.13 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 24.13 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7150,6 +7514,24 @@
 			)
 		)
 		(property "Altronics URI" "https://www.altronics.com.au/p/m4318-powertran-9-9v-pcb-10va-toroidal-transformer/"
+			(at 38.1 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 38.1 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 38.1 91.44 0)
 			(effects
 				(font
@@ -7237,6 +7619,24 @@
 		)
 		(property "Description" "Fuse"
 			(at 24.13 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 24.13 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 24.13 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7400,6 +7800,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 105.41 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 105.41 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8a8deeb4-e6b0-414f-be84-2c1e8b864c9e")
 		)
@@ -7417,7 +7835,7 @@
 	)
 	(symbol
 		(lib_id "PCM_SparkFun-PowerSymbol:VOUT")
-		(at 162.56 91.44 270)
+		(at 172.72 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7426,7 +7844,7 @@
 		(fields_autoplaced yes)
 		(uuid "14654f22-e323-422f-82c4-9dfb3a21decd")
 		(property "Reference" "#PWR099"
-			(at 158.75 91.44 0)
+			(at 172.72 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7435,7 +7853,7 @@
 			)
 		)
 		(property "Value" "V_{OUT}"
-			(at 166.37 91.44 0)
+			(at 172.72 87.63 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -7444,7 +7862,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 91.44 0)
+			(at 172.72 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7453,7 +7871,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 162.56 91.44 0)
+			(at 172.72 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7462,7 +7880,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VOUT\""
-			(at 156.21 91.44 0)
+			(at 172.72 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7545,6 +7963,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 91.44 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 91.44 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 91.44 92.71 0)
 			(effects
 				(font
@@ -7636,17 +8072,15 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 71.12 106.68 0)
-		(mirror y)
+		(at 182.88 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2142854f-b0a7-4c68-aba3-1098bf469d65")
 		(property "Reference" "J4"
-			(at 71.12 97.79 0)
+			(at 182.88 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7655,7 +8089,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x03"
-			(at 71.12 100.33 0)
+			(at 182.88 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7664,7 +8098,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x03_P3.50mm_Vertical"
-			(at 71.12 106.68 0)
+			(at 182.88 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7673,7 +8107,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 71.12 106.68 0)
+			(at 182.88 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7682,7 +8116,25 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 71.12 106.68 0)
+			(at 182.88 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 182.88 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 182.88 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7846,6 +8298,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 86.36 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 86.36 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ba1999ed-ac36-4d69-a24c-e94c76c3e124")
 		)
@@ -7907,6 +8377,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 139.7 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 139.7 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 139.7 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8114,6 +8602,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 24.13 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 24.13 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ac229b11-4157-457a-9285-c7fc66a12e17")
 		)
@@ -8174,6 +8680,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 160.02 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 160.02 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 160.02 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8357,7 +8881,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 118.4148 99.06 0)
 			(effects
 				(font
@@ -8376,6 +8900,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 119.38 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 119.38 95.25 0)
 			(effects
 				(font
@@ -8474,6 +9016,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 116.84 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 116.84 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "eb90e7fc-4a5f-40c2-92b8-e00c56d55088")
 		)
@@ -8562,6 +9122,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 91.44 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 91.44 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bee842c4-02de-4210-a6ab-e5e8a05ce9c5")
 		)
@@ -8572,6 +9150,72 @@
 			(project "Lab PSU"
 				(path "/fae13b61-4b38-45f0-834d-dde0b60d6e74"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 177.8 127 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b9abd44-2797-45ae-aa67-6aae61c7f9a6")
+		(property "Reference" "#PWR0138"
+			(at 177.8 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 177.8 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 177.8 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 177.8 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 177.8 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "34071bca-64de-4231-8f63-5d9bb273f484")
+		)
+		(instances
+			(project "Lab PSU"
+				(path "/fae13b61-4b38-45f0-834d-dde0b60d6e74"
+					(reference "#PWR0138")
 					(unit 1)
 				)
 			)
@@ -8639,6 +9283,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 38.1 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 38.1 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "612aec3e-3d49-45d5-80b0-e46ede988ae9")
 		)
@@ -8694,7 +9356,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 118.4148 142.24 0)
 			(effects
 				(font
@@ -8713,6 +9375,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 119.38 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 119.38 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 119.38 138.43 0)
 			(effects
 				(font
@@ -8877,6 +9557,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 93.98 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 93.98 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "27476727-2612-4683-ba2b-3a7155127a81")
 		)
@@ -9033,6 +9731,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 105.41 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 105.41 27.94 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "82377f0c-db9f-44d6-995d-fc003508f1c0")
 		)
@@ -9094,6 +9810,24 @@
 			)
 		)
 		(property "Description" "1.5A 35V Adjustable Linear Regulator, SOT-223"
+			(at 119.38 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 119.38 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 119.38 76.2 0)
 			(effects
 				(font
@@ -9177,6 +9911,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 134.62 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 134.62 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "be8464a8-f8ef-4e58-9dd3-2e9ac9b4d426")
 		)
@@ -9237,6 +9989,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 160.02 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 160.02 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 160.02 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9314,6 +10084,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 129.54 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 129.54 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3c0aabd6-be0c-4ff1-b3ab-e67637a68c2c")
 		)
@@ -9324,80 +10112,6 @@
 			(project "Lab PSU"
 				(path "/fae13b61-4b38-45f0-834d-dde0b60d6e74"
 					(reference "R48")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Screw_Terminal_01x03")
-		(at 71.12 124.46 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5591fdd3-8d32-4810-80ae-9bc425f3cb91")
-		(property "Reference" "J5"
-			(at 71.12 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "Screw_Terminal_01x03"
-			(at 71.12 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x03_P3.50mm_Vertical"
-			(at 71.12 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 71.12 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 71.12 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ad4ab7ed-4105-4bbf-9293-1ba5bbc147ee")
-		)
-		(pin "3"
-			(uuid "cb500ab2-34e8-4148-971c-1f56fbf65961")
-		)
-		(pin "2"
-			(uuid "7d965d0f-3b19-4975-9cbf-02a38304a958")
-		)
-		(instances
-			(project "Lab PSU"
-				(path "/fae13b61-4b38-45f0-834d-dde0b60d6e74"
-					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -9522,6 +10236,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 139.7 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 139.7 83.82 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e07fb1b1-9818-41de-b554-08853501ff31")
 		)
@@ -9586,6 +10318,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 139.7 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 139.7 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 139.7 31.75 0)
 			(effects
 				(font
@@ -9746,6 +10496,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 91.44 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 91.44 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a52ec3a1-ed9f-40de-8257-532ec421f323")
 		)
@@ -9882,6 +10650,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 129.54 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 129.54 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7745a9a3-faa5-44d6-addd-16a238283db4")
 		)
@@ -9925,7 +10711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 			(at 118.4148 91.44 0)
 			(effects
 				(font
@@ -9944,6 +10730,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 119.38 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 119.38 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 119.38 87.63 0)
 			(effects
 				(font
@@ -10088,6 +10892,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 35.56 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 35.56 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3cf175f8-332f-4201-83ef-237ff5d66026")
 		)
@@ -10153,6 +10975,24 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
+			(at 129.54 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 129.54 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 129.54 138.43 0)
 			(effects
 				(font
@@ -10298,6 +11138,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 139.7 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 139.7 134.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d7a84764-2320-40c9-8733-12c1e4660858")
 		)
@@ -10370,6 +11228,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 144.78 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 144.78 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1d523305-270f-4fca-8328-ed3437bc202a")
 		)
@@ -10413,7 +11289,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm"
 			(at 105.7148 139.7 0)
 			(effects
 				(font
@@ -10432,6 +11308,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 106.68 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 106.68 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 106.68 135.89 0)
 			(effects
 				(font
@@ -10523,6 +11417,24 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 105.41 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 105.41 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 105.41 33.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10686,6 +11598,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 105.41 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 105.41 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f855f302-4355-46e3-a4a5-81b5b3a6907f")
 		)
@@ -10703,7 +11633,8 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 160.02 97.79 180)
+		(at 160.02 97.79 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10727,7 +11658,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
-			(at 159.0548 93.98 0)
+			(at 159.0548 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10746,6 +11677,24 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 160.02 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 160.02 97.79 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 160.02 97.79 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10927,7 +11876,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 150.8252 101.6 0)
 			(effects
 				(font
@@ -10946,6 +11895,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 149.86 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 149.86 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 149.86 97.79 0)
 			(effects
 				(font
@@ -11040,6 +12007,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 96.52 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 96.52 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "488e27e2-7244-41ec-82ee-247887157953")
 		)
@@ -11100,6 +12085,24 @@
 			)
 		)
 		(property "Description" "Switch, dual pole double throw, separate symbols"
+			(at 63.5 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 63.5 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 63.5 190.5 0)
 			(effects
 				(font
@@ -11208,6 +12211,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 96.52 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 96.52 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "348faa42-400a-4d0a-958e-89319f0c62b6")
 		)
@@ -11276,23 +12297,41 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 63.5 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 63.5 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
-			(uuid "244058db-0ead-4f58-932e-f241b52bd408")
+			(uuid "244058db-0ead-4f58-932e-f241b52bd409")
 		)
 		(pin "6"
-			(uuid "4c62ae56-4a5a-46da-b11f-383a89f3b0e3")
+			(uuid "4c62ae56-4a5a-46da-b11f-383a89f3b0e4")
 		)
 		(pin "2"
-			(uuid "cbcf2aed-3859-4f85-b995-82a255b200c8")
+			(uuid "cbcf2aed-3859-4f85-b995-82a255b200c9")
 		)
 		(pin "1"
-			(uuid "c9ba6536-1230-4ee1-9615-9ce2f5849994")
+			(uuid "c9ba6536-1230-4ee1-9615-9ce2f5849995")
 		)
 		(pin "4"
-			(uuid "4525a06a-4d7a-48ae-9833-313a8e9e4d81")
+			(uuid "4525a06a-4d7a-48ae-9833-313a8e9e4d82")
 		)
 		(pin "5"
-			(uuid "09872be0-f464-45a1-b989-7375457e9a69")
+			(uuid "09872be0-f464-45a1-b989-7375457e9a6a")
 		)
 		(instances
 			(project ""
@@ -11490,6 +12529,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 119.38 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 119.38 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "7def64a3-7d50-468d-aaea-68f4082f9796")
 		)
@@ -11555,6 +12612,24 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 129.54 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 129.54 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 129.54 130.81 0)
 			(effects
 				(font
@@ -11632,6 +12707,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 35.56 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 35.56 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4546f7bb-4783-42f9-9a9e-cd64627c1e55")
 		)
@@ -11645,6 +12738,72 @@
 			(project "Lab PSU"
 				(path "/fae13b61-4b38-45f0-834d-dde0b60d6e74"
 					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 177.8 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aff4f4b9-1ae9-4858-ae2f-5850b853525b")
+		(property "Reference" "#PWR0139"
+			(at 177.8 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 177.8 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 177.8 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 177.8 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 177.8 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3dbb5237-3675-470c-b5a0-23c4698738b4")
+		)
+		(instances
+			(project "Lab PSU"
+				(path "/fae13b61-4b38-45f0-834d-dde0b60d6e74"
+					(reference "#PWR0139")
 					(unit 1)
 				)
 			)
@@ -11713,6 +12872,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 96.52 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 96.52 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 96.52 143.51 0)
 			(effects
 				(font
@@ -11873,6 +13050,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 105.41 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 105.41 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c7972fd5-af09-479d-92d2-17e3441840be")
 		)
@@ -11934,6 +13129,24 @@
 			)
 		)
 		(property "Description" "1.5A 35V Adjustable Linear Regulator, SOT-223"
+			(at 119.38 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 119.38 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 119.38 127 0)
 			(effects
 				(font
@@ -12023,6 +13236,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 81.28 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 81.28 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 81.28 80.01 0)
 			(effects
 				(font
@@ -12168,6 +13399,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 129.54 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 129.54 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "96b8b84b-1925-4517-9398-c7788126d41d")
 		)
@@ -12210,7 +13459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 150.8252 139.7 0)
 			(effects
 				(font
@@ -12229,6 +13478,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 149.86 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 149.86 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 149.86 135.89 0)
 			(effects
 				(font
@@ -12317,6 +13584,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 119.38 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 119.38 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 119.38 39.37 0)
 			(effects
 				(font
@@ -12434,7 +13719,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 150.8252 88.9 0)
 			(effects
 				(font
@@ -12453,6 +13738,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 149.86 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 149.86 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 149.86 85.09 0)
 			(effects
 				(font
@@ -12530,6 +13833,24 @@
 			)
 		)
 		(property "Altronics URI" "https://www.altronics.com.au/p/m4318-powertran-9-9v-pcb-10va-toroidal-transformer/"
+			(at 38.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 38.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 38.1 142.24 0)
 			(effects
 				(font
@@ -12644,6 +13965,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 105.41 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 105.41 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "adbe5ddb-d511-418b-8c14-49e62fe21b8b")
 		)
@@ -12707,6 +14046,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 71.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 71.12 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 71.12 33.02 0)
 			(effects
 				(font
@@ -12809,6 +14166,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 114.3 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 114.3 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a5d5758d-1927-4b74-acb1-a0ce92a488f2")
 		)
@@ -12895,6 +14270,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 81.28 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 81.28 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0811f559-c339-46e0-a5ca-3a3626df2acc")
 		)
@@ -12938,7 +14331,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm"
 			(at 105.7148 88.9 0)
 			(effects
 				(font
@@ -12957,6 +14350,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 106.68 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 106.68 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 106.68 85.09 0)
 			(effects
 				(font
@@ -13043,6 +14454,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 86.36 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 86.36 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 86.36 130.81 0)
 			(effects
 				(font
@@ -13207,6 +14636,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 99.06 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 99.06 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a2c094e8-dc45-496a-8436-142971e23a56")
 		)
@@ -13250,7 +14697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm_P7.50mm"
 			(at 105.7148 101.6 0)
 			(effects
 				(font
@@ -13269,6 +14716,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 106.68 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 106.68 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 106.68 97.79 0)
 			(effects
 				(font
@@ -13360,6 +14825,24 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 111.76 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 111.76 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 111.76 39.37 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13504,6 +14987,24 @@
 				(hide yes)
 			)
 		)
+		(property "KLC_S3.3" ""
+			(at 129.54 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 129.54 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c27c5cea-ea97-477b-b4d2-208dbc1933de")
 		)
@@ -13568,6 +15069,24 @@
 			)
 		)
 		(property "Description" "Trim-potentiometer"
+			(at 129.54 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 129.54 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 129.54 95.25 0)
 			(effects
 				(font
@@ -13792,6 +15311,24 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 105.41 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 105.41 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 105.41 53.34 0)
 			(effects
 				(font

@@ -614,6 +614,12 @@
           "label": "KLC_S4.1",
           "name": "KLC_S4.1",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Altronics URI",
+          "name": "Altronics URI",
+          "show": false
         }
       ],
       "filter_string": "",
