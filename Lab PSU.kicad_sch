@@ -8073,6 +8073,7 @@
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x03")
 		(at 182.88 91.44 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8080,7 +8081,7 @@
 		(dnp no)
 		(uuid "2142854f-b0a7-4c68-aba3-1098bf469d65")
 		(property "Reference" "J4"
-			(at 182.88 82.55 0)
+			(at 182.88 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8089,7 +8090,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x03"
-			(at 182.88 85.09 0)
+			(at 182.88 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
